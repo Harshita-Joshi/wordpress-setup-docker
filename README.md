@@ -16,7 +16,7 @@ Linux (Ubuntu)
 ## Commands and Sub-commands
 1. **Setup**<br>
 To run the script: <br>**sudo python3 wp_docker_setup.py sitename**<br>
-This will deploy a wordpress site at the mentioned <sitename>. Check the site address displayed on the terminal in Chrome browser.
+This will deploy a wordpress site at the mentioned sitename. Check the site address displayed on the terminal in Chrome browser.
 Firefox can't be used for this case as it needs installation of some softwares for opening the site. The site might show an initial      message that: Database connection can't be established. However, this will resolve after a few seconds.
 
 2. **Disable site**<br>
